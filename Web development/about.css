@@ -1,0 +1,16 @@
+header{
+    text-align: center;
+    width:100%;
+    padding:1%;
+    background-color:black;
+    position:fixed;
+    z-index: 1;
+    }
+    
+    
+    .topnav {
+    width:100%;
+    font-size:20px;
+    z-index: 0;
+    text-align: center;
+    }
